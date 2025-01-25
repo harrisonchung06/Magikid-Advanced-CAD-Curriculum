@@ -1,5 +1,10 @@
+# What is SolidWorks?
+
+
+# History of CAD and Blueprints
 ![SW Advanced CAD Curriculum 1.0](../images/SW%20Advanced%201.png)
 
+# SolidWorks versus TinkerCAD?
 ![SW Advanced CAD Curriculum 1.0](../images/SW%20Advanced%202.png)
 
 # Exploring the Environment
