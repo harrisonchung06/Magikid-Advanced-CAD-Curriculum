@@ -1,5 +1,9 @@
 ![SW Advanced CAD Curriculum 1.0](../images/SW%20Advanced%201.png)
 
+![SW Advanced CAD Curriculum 1.5](../images/SW%20Advanced%20CAD%20Curriculumn%201_5.png)
+
+![SW Advanced CAD Curriculum 1.6](../images/SW%20Advanced%20CAD%20Curriculumn%201_6.png)
+
 # Exploring the Environment
 
 ![SW Advanced CAD Curriculum 1.7](../images/SW%20Advanced%20CAD%20Curriculumn%201_7.png)
