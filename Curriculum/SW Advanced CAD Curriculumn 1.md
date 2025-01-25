@@ -1,16 +1,4 @@
-![SW Advanced CAD Curriculum 1.0](../images/SW%20Advanced%20CAD%20Curriculumn%201_0.jpg)
-
-![SW Advanced CAD Curriculum 1.1](../images/SW%20Advanced%20CAD%20Curriculumn%201_1.jpg)
-
-![SW Advanced CAD Curriculum 1.2](../images/SW%20Advanced%20CAD%20Curriculumn%201_2.jpg)
-
-![SW Advanced CAD Curriculum 1.3](../images/SW%20Advanced%20CAD%20Curriculumn%201_3.jpg)
-
-![SW Advanced CAD Curriculum 1.4](../images/SW%20Advanced%20CAD%20Curriculumn%201_4.jpg)
-
-![SW Advanced CAD Curriculum 1.5](../images/SW%20Advanced%20CAD%20Curriculumn%201_5.png)
-
-![SW Advanced CAD Curriculum 1.6](../images/SW%20Advanced%20CAD%20Curriculumn%201_6.png)
+![SW Advanced CAD Curriculum 1.0](../images/SW%20Advanced%201.png)
 
 # Exploring the Environment
 
