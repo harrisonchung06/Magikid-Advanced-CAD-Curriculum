@@ -1,12 +1,12 @@
-![SW Advanced CAD Curriculum 1-0](../images/SW Advanced CAD Curriculumn 1-0.jpg)
+![SW Advanced CAD Curriculum 1-0](../images/SW Advanced CAD Curriculumn 1-0.png)
 
-![SW Advanced CAD Curriculum 1-1](../images/SW Advanced CAD Curriculumn 1-1.jpg)
+![SW Advanced CAD Curriculum 1-1](../images/SW Advanced CAD Curriculumn 1-1.png)
 
-![SW Advanced CAD Curriculum 1-2](../images/SW Advanced CAD Curriculumn 1-2.jpg)
+![SW Advanced CAD Curriculum 1-2](../images/SW Advanced CAD Curriculumn 1-2.png)
 
-![SW Advanced CAD Curriculum 1-3](../images/SW Advanced CAD Curriculumn 1-3.jpg)
+![SW Advanced CAD Curriculum 1-3](../images/SW Advanced CAD Curriculumn 1-3.png)
 
-![SW Advanced CAD Curriculum 1-4](../images/SW Advanced CAD Curriculumn 1-4.jpg)
+![SW Advanced CAD Curriculum 1-4](../images/SW Advanced CAD Curriculumn 1-4.png)
 
 ![SW Advanced CAD Curriculum 1-5](../images/SW Advanced CAD Curriculumn 1-5.png)
 
