@@ -12,6 +12,7 @@
 
 ## Sweep Tool:
 1. Create a sketch of a centerline on the top plane.
+![image](https://github.com/user-attachments/assets/763b84c8-26a7-4c92-a545-0464725008b8)
 2. Exit the sketch and click "Sweep" and select the circular cross-section option.
 3. **Loft** creates a 3D shape by sweeping a 2D profile along a predefined path.
    - Example uses include pipes, wires, handlebars.
