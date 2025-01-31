@@ -29,8 +29,17 @@
    - Example uses include pipes, wires, handlebars.
    - Useful for creating objects with complex curves or varying cross-sections.
 4. **Circular Cross-section** is simply a shortcut for a circular cross-section.
-5. Sketch on the front plane a random cross-section (ellipse, circle, square).
-6. Select **Sketch Profile** and select your sketch.
+5. Create a new plane that is coincident to the point at which the path starts. 
+![image](https://github.com/user-attachments/assets/27ae0991-2405-4156-80ff-bb7fdddbbd32)
+![image](https://github.com/user-attachments/assets/700cfbf8-f5e4-46fd-9f8a-9100bad8faad)
+
+6. Sketch on the new plane a random cross-section (ellipse, circle, square). Make sure it does not intersect itself!
+![image](https://github.com/user-attachments/assets/a5e3a081-6e11-48c3-a0c5-7b41be03b166)
+![image](https://github.com/user-attachments/assets/01a08f17-0404-46dd-8945-c1a1228b8c50)
+
+7. Select **Sketch Profile** and select your sketch.
+
+![image](https://github.com/user-attachments/assets/68180519-6202-45fb-b2fd-51e31ea06635)
 
 ## Loft Tool:
 1. Create a new file.
