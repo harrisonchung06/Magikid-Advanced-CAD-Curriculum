@@ -21,7 +21,9 @@
 
 
 2. Exit the sketch and click "Sweep" and select the circular cross-section option.
+![image](https://github.com/user-attachments/assets/315507ab-615c-454b-8287-ff2212ad9240)
 
+![image](https://github.com/user-attachments/assets/8e6d436d-37b0-4e70-87ac-25a823239b29)
 
 3. **Loft** creates a 3D shape by sweeping a 2D profile along a predefined path.
    - Example uses include pipes, wires, handlebars.
