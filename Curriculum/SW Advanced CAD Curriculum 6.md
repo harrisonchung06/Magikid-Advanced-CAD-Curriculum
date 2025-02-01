@@ -10,12 +10,30 @@
 
 ## Sketch Mirror:
 - The sketch mirror tool allows you to clone sketch entities by reflecting them across a line (like a mirror)
+
+![image](https://github.com/user-attachments/assets/43dc901d-7cde-49b9-b386-e77c4c653560)
+![image](https://github.com/user-attachments/assets/96f548ed-b111-4a49-ae1c-34293ffbe66e)
+![image](https://github.com/user-attachments/assets/6037a020-0728-49f8-8b2a-743ba468120e)
+
 - Create the sketch from Week 1 using the mirror tool 
 ![SW Advanced CAD Curriculum 1-1](../images/SW%20Advanced%20CAD%20Curriculumn%202-10.png)
 
 ## Sketch Circular Pattern:
+- The circular pattern tool for sketches creates a pattern of sketch entities in a certain direction around a circle a number of times
+- Revolves around a circle thats centered around a sketch entity
+![image](https://github.com/user-attachments/assets/27853b4d-9fb4-4c34-8276-d2bcd5a8c1de)
+- Can pattern a certain section of the circle by changing the angle parameter
+![image](https://github.com/user-attachments/assets/35d3d61c-2259-4e2d-85ed-9bd5e39607ab)
+- Can change individual instances to be different than the rest of the group 
+![image](https://github.com/user-attachments/assets/f2612e48-2eaa-4965-971c-8f7cd4a4400c)
+
+![image](https://github.com/user-attachments/assets/bc3267cf-5300-41ea-9b8b-c3a738f06908)
+![image](https://github.com/user-attachments/assets/bbc850f4-38c9-4993-980e-b684c51b0710)
+![image](https://github.com/user-attachments/assets/72987c5f-84e1-4391-bdb7-253a414f2d4e)
+![image](https://github.com/user-attachments/assets/4f704366-a6bd-4132-9a6b-ac13edc2c7ba)
 
 ## Sketch Linear Pattern:
+
 ## Feature Mirror:
 
 ## Feature Circular Pattern:
