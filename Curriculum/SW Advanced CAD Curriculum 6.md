@@ -10,7 +10,8 @@
 
 ## Sketch Mirror:
 - The sketch mirror tool allows you to clone sketch entities by reflecting them across a line (like a mirror)
-- 
+- Create the sketch from Week 1 using the mirror tool 
+![SW Advanced CAD Curriculum 1-1](../images/SW%20Advanced%20CAD%20Curriculumn%202-10.png)
 
 ## Sketch Circular Pattern:
 
