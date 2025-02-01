@@ -33,8 +33,20 @@
 ![image](https://github.com/user-attachments/assets/4f704366-a6bd-4132-9a6b-ac13edc2c7ba)
 
 ## Sketch Linear Pattern:
+- Creates copies of sketch entities along a line that are spaced apart 
+![image](https://github.com/user-attachments/assets/46d8b280-975c-4123-99b4-7746448e4339)
+
+![image](https://github.com/user-attachments/assets/be9fd5c4-ef30-4183-995f-ff45256e20ca)
+
+![image](https://github.com/user-attachments/assets/3554c3cc-36c4-4dc1-b66f-ae867a913103)
 
 ## Feature Mirror:
+- Mirrors a feature across a line or plane
+![image](https://github.com/user-attachments/assets/a752b927-04fb-4426-bcbd-083d87155844)
+![image](https://github.com/user-attachments/assets/6e3c9aee-d556-41eb-9585-8498b9b0a6a9)
+![image](https://github.com/user-attachments/assets/115772c6-8edd-45d5-b777-3a0fb15c1434)
+![image](https://github.com/user-attachments/assets/548fd972-40cf-4bf4-8005-08c7532cc2ee)
+![image](https://github.com/user-attachments/assets/70679727-c0aa-4311-8296-2fca99ce7fa4)
 
 ## Feature Circular Pattern:
 
