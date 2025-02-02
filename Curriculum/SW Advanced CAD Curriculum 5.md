@@ -37,8 +37,6 @@
 
 6. Sketch on the new plane a random cross-section (ellipse, circle, square). Make sure it does not intersect itself!
 
-![image](https://github.com/user-attachments/assets/a5e3a081-6e11-48c3-a0c5-7b41be03b166)
-
 ![image](https://github.com/user-attachments/assets/01a08f17-0404-46dd-8945-c1a1228b8c50)
 
 7. Select **Sketch Profile** and select your sketch.
