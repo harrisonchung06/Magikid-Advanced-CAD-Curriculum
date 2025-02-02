@@ -84,13 +84,18 @@
 ![image](https://github.com/user-attachments/assets/cf060352-06c2-4c64-bca8-83b1368472c9)
 
 ## Feature Linear Pattern:
+- Patterns a feature along a line
+- Does not create disjoint bodies!
 
 ## Quiz:
+1. What is a disjoint body?
+2. Does the mirror tool pattern along a line?
+3. Which tool is used to create patterns around an axis?
 
 ## Review:
-1. **Sweep Tool**:
-2. **Loft Tool**:
-3. **Shell Tool**:
+1. **Feature & Sketch Mirror**
+2. **Feature & Sketch Circular Pattern**
+3. **Feature & Sketch Linear Pattern**
 
 
 
