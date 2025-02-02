@@ -48,13 +48,24 @@ Connector:
 - Connects two circles by forcing them to share the same center along a certain axis
 - Parts can rotate unless rotation is locked
 
+## Plane Mate
+- A plane mate is a special type of coincident mate where you connect the central planes of two parts together
+- This kind of mate is the strongest as the central planes will not change no matter what you do to the original part
+- Other surfaces might change if you change the part in different ways 
+
 ## Challenge:
 - Spend some time to try and connect the pieces of the crank shaft as shown
 
 ## Quiz:
+1. Why is the plane mate the strongest mate?
+2. What is an assembly?
+3. Why do engineers use assemblies?
 
 ## Review:
-1. 
+1. Assemblies
+2. Coincident Mate
+3. Concentric Mate
+4. Plane Mate 
 
 
 
