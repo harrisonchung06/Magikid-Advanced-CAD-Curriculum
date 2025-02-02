@@ -1,10 +1,10 @@
 # Lesson 5: More 3D Modeling Tools
 
-## Setup (~1 minute):
+## Setup:
 - Open a new SW project.
 - Save inside the “My Projects Folder”.
 
-## Introduction (~5 minutes):
+## Introduction:
 - What part was made last week and how was it made?
 - What does extrude do? 
 - What does cut extrude do? 
