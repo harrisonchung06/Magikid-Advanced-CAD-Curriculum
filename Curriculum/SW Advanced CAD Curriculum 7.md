@@ -2,7 +2,9 @@
 
 ## Setup:
 - Open a new SW Assembly File
+
 ![image](https://github.com/user-attachments/assets/9b357668-142d-4d37-b01a-4693d74d1d46)
+
 - Save the file inside of the "My Projects" Folder under a new folder called "4 Bar Link Assembly" 
 
 ## Introduction:
