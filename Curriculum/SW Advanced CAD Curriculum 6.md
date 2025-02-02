@@ -87,6 +87,13 @@
 - Patterns a feature along a line
 - Does not create disjoint bodies!
 
+![image](https://github.com/user-attachments/assets/b6b3dff7-36cb-45c9-9e26-9b3d7233eaee)
+
+![image](https://github.com/user-attachments/assets/96360328-ee13-4821-b8e9-43213d54ea64)
+
+![image](https://github.com/user-attachments/assets/b93fb0cd-1997-4a2f-9ac4-00f33a4cb558)
+
+
 ## Quiz:
 1. What is a disjoint body?
 2. Does the mirror tool pattern along a line?
