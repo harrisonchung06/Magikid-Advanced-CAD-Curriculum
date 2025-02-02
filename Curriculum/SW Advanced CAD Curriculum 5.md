@@ -44,7 +44,9 @@
 ## Loft Tool:
 1. Create a new file.
 2. Create a circular profile on the top plane.
+
 ![image](https://github.com/user-attachments/assets/fd80e90f-43b4-4f1e-83eb-15df0e1e91e7)
+
 ![image](https://github.com/user-attachments/assets/c50e93d2-e69f-4675-9c4a-3b6c2d697b1d)
 
 3. Create a sketch plane offset from the top plane.
