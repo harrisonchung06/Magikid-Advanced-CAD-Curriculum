@@ -54,7 +54,7 @@
 
 ## Feature Mirror:
 - Mirrors a feature across a line or plane
-
+- Does not create disjoint bodies! 
 ![image](https://github.com/user-attachments/assets/a752b927-04fb-4426-bcbd-083d87155844)
 
 ![image](https://github.com/user-attachments/assets/6e3c9aee-d556-41eb-9585-8498b9b0a6a9)
@@ -66,6 +66,22 @@
 ![image](https://github.com/user-attachments/assets/70679727-c0aa-4311-8296-2fca99ce7fa4)
 
 ## Feature Circular Pattern:
+- Patterns a feature around an axis of revolution or a plane of revolution
+- Does not create disjoint bodies! 
+
+![image](https://github.com/user-attachments/assets/840538ab-52b4-42b6-9e69-8aa2ee2f44bd)
+
+![image](https://github.com/user-attachments/assets/af028b22-6096-4e56-9575-3c5745da1091)
+
+![image](https://github.com/user-attachments/assets/afedb55d-3b70-46e3-9fc4-482d6d00bc42)
+
+![image](https://github.com/user-attachments/assets/940d6bd2-0ec7-4e56-ad84-35053aa14864)
+
+![image](https://github.com/user-attachments/assets/3f4dadf1-0b9c-401f-bfb2-7b262ddee503)
+
+![image](https://github.com/user-attachments/assets/f44c3b14-b34b-4989-b8fd-a159883d2c2e)
+
+![image](https://github.com/user-attachments/assets/cf060352-06c2-4c64-bca8-83b1368472c9)
 
 ## Feature Linear Pattern:
 
