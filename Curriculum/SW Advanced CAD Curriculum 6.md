@@ -55,6 +55,11 @@
 ## Feature Mirror:
 - Mirrors a feature across a line or plane
 - Does not create disjoint bodies! 
+![image](https://github.com/user-attachments/assets/bcdb2e6b-6dbd-4bad-bcb7-b98dee55fb1d)
+![image](https://github.com/user-attachments/assets/814f64db-8a1c-4039-b90b-7b4bfbd7956e)
+![image](https://github.com/user-attachments/assets/4fbf7fe1-ecaa-4f57-bc2e-8eb810700d91)
+![image](https://github.com/user-attachments/assets/56078c86-3bb7-4371-89e8-ac13283643bc)
+![image](https://github.com/user-attachments/assets/9433a6ae-0f19-4858-ae7a-bf48d77129c5)
 
 
 ## Feature Circular Pattern:
