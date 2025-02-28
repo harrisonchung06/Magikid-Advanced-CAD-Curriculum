@@ -65,7 +65,10 @@
 ## Feature Circular Pattern:
 - Patterns a feature around an axis of revolution or a plane of revolution
 - Does not create disjoint bodies! 
-
+![image](https://github.com/user-attachments/assets/e119804e-3425-47b0-9dcb-b656614ce188)
+![image](https://github.com/user-attachments/assets/c369b569-d772-491b-98d3-eb17523bda70)
+![image](https://github.com/user-attachments/assets/dc50b380-cded-4807-9867-9b8813cb6839)
+![image](https://github.com/user-attachments/assets/63b04ccd-775d-4ad5-86ef-f9ef11882ab6)
 
 
 ## Feature Linear Pattern:
