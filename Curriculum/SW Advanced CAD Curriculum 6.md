@@ -71,6 +71,11 @@
 ## Feature Linear Pattern:
 - Patterns a feature along a line
 - Does not create disjoint bodies!
+![image](https://github.com/user-attachments/assets/e780d34f-e5db-4859-93f5-4e8d4b7eb3fc)
+![image](https://github.com/user-attachments/assets/27716094-93a4-4a29-b700-4b28e80aa173)
+![image](https://github.com/user-attachments/assets/1b20fd71-f596-4937-9e2e-586aa2efca9a)
+![image](https://github.com/user-attachments/assets/18b5a32c-3553-4d21-af0b-aeb79a4c8808)
+![image](https://github.com/user-attachments/assets/718c571a-2e25-4dc4-85ed-c668a1e54854)
 
 
 
