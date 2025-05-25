@@ -17,7 +17,7 @@ During this lesson you will create a 3D model of your name with a 1 mm thick bas
    - Position the text at the origin
 4. Click `OK` to confirm.
 
-[image here: Text tool with name entered]
+![SW](../images%202/Untitled-2.png)
 
 ## Step 3: Extrude Your Name
 1. Exit the sketch and select the `Extruded Boss/Base` feature.
