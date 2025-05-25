@@ -35,7 +35,7 @@ During this lesson you will create a 3D model of your name with a 1 mm thick bas
    - Set thickness to 1 mm
    - Check `Merge result` option
 
-[image here: Base plate creation process]
+![SW](../images%202/Untitled-4.png)
 
 ## Step 5: Final Touches
 1. Apply appearances if desired:
@@ -43,11 +43,4 @@ During this lesson you will create a 3D model of your name with a 1 mm thick bas
    - Right-click the plate → `Appearance` → Choose material
 2. Save your file.
 
-[image here: Final rendered model]
-
-## Tips:
-- Use simple fonts for easier extrusion
-- Consider adding fillets to sharp edges for a smoother look
-- For complex names, you may need to use the `Intersect` tool
-
-[image here: Example of completed model]
+![SW](../images%202/Untitled-5.png)
