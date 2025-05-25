@@ -24,7 +24,7 @@ During this lesson you will create a 3D model of your name with a 1 mm thick bas
 2. Set the extrusion depth to your desired height (e.g., 5 mm).
 3. Click `OK` to create the 3D text.
 
-[image here: Extrusion dialog with parameters]
+![SW](../images%202/Untitled-3.png)
 
 ## Step 4: Create the Base Plate
 1. Select the bottom face of your extruded name.
