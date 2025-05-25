@@ -6,7 +6,7 @@ During this lesson you will create a 3D model of your name with a 1 mm thick bas
 1. Launch SolidWorks and create a new part file.
 2. Select `File` > `New` > `Part` > `OK`.
 
-![]("C:\Users\hsin\Downloads\Untitled-1.png" "Step 1")
+![]("images 2/Untitled-1.png" "Step 1")
 
 ## Step 2: Sketch Your Name on the Front Plane
 1. In the FeatureManager, select the `Front Plane`.
