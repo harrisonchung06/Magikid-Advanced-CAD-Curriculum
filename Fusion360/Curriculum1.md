@@ -26,8 +26,6 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 
 ![Step 2](Fusion_Images/Screenshot-2025-08-01-111739.png)
 
-![Step 2](Fusion_Images/Screenshot-2025-08-01-112003.png)
-
 ---
 
 ## Step 3: Extrude the Base
@@ -50,6 +48,10 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 6. Set the font, size, and alignment as desired.
 7. Position the text within the nameplate area.
 8. Click **OK**, then **Finish Sketch**.
+
+![Step 2](Fusion_Images/Screenshot-2025-08-01-112003.png)
+
+![Step 2](Fusion_Images/Screenshot-2025-08-01-112719.png)
 
 ---
 
