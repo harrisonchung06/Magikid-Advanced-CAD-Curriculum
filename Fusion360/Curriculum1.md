@@ -7,7 +7,7 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 ## Step 1: Create a New Design
 1. Open **Fusion 360**.
 2. Click on **File > New Design** to start a new project.
-![Step 1](Fusion360/Fusion_Images/Screenshot 2025-08-01 111429.png)
+![Step 1](../Fusion360/Fusion_Images/Screenshot 2025-08-01 111429.png)
 ---
 
 ## Step 2: Create a Rectangular Base
