@@ -49,7 +49,7 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 7. Position the text within the nameplate area.
 8. Click **OK**, then **Finish Sketch**.
 
-![Step 2](Fusion_Images/Screenshot-2025-08-01-112003.png)
+![Step 4](Fusion_Images/Screenshot-2025-08-01-112003.png)
 
 ---
 
@@ -60,12 +60,14 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 4. Set the appropriate distance (e.g., -1 mm for engraving or +1 mm for embossing).
 5. Click **OK**.
 
-![Step 2](Fusion_Images/Screenshot-2025-08-01-112719.png)
+![Step 5](Fusion_Images/Screenshot-2025-08-01-112719.png)
 
 ---
 
 ## Step 6: Save Your Work
 1. Click **File > Save**.
 2. Enter a name and save the project to your desired location.
+
+![Step 6](Fusion_Images/Screenshot-2025-08-01-113541.png)
 
 --- 
