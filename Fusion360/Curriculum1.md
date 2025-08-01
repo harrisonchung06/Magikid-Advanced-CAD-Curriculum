@@ -24,9 +24,9 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 
 ![Step 2](Fusion_Images/Screenshot-2025-08-01-111617.png)
 
-![Step 2](Fusion_Images/Screenshot-2025-08-01-111739.png)
+![Step 2](Fusion_Images/Screenshot 2025-08-01 112003.png)
 
-![Step 2](Fusion_Images/Screenshot-2025-08-01-111806.png)
+![Step 2](Fusion_Images/Screenshot-2025-08-01-111739.png)
 
 ---
 
@@ -34,6 +34,10 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 1. Select the rectangular sketch profile.
 2. Click on **Solid > Create > Extrude**.
 3. Set the distance (e.g., 5 mm) and click **OK**.
+
+![Step 3](Fusion_Images/Screenshot-2025-08-01-111806.png)
+
+![Step 3](Fusion_Images/Screenshot-2025-08-01-111848.png)
 
 ---
 
