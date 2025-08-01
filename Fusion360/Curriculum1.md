@@ -22,7 +22,7 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 
 ![Step 2](Fusion_Images/Screenshot-2025-08-01-111606.png)
 
-![Step 2](Fusion360/Fusion_Images/Screenshot-2025-08-01-111617.png)
+![Step 2](Fusion_Images/Screenshot-2025-08-01-111617.png)
 
 ---
 
