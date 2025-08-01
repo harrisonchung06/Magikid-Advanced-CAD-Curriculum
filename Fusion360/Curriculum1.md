@@ -20,6 +20,8 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 4. Define dimensions for the nameplate (e.g., 100 mm x 30 mm) using the **Dimension Tool (D)**.
 5. Click **Finish Sketch**.
 
+
+
 ---
 
 ## Step 3: Extrude the Base
