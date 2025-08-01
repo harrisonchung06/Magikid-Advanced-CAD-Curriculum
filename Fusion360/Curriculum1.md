@@ -51,8 +51,6 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 
 ![Step 2](Fusion_Images/Screenshot-2025-08-01-112003.png)
 
-![Step 2](Fusion_Images/Screenshot-2025-08-01-112719.png)
-
 ---
 
 ## Step 5: Extrude the Text
@@ -61,6 +59,8 @@ This first lesson outlines the basic steps to create a simple nameplate in Fusio
 3. Set the operation to **Cut** if engraving or **Join** if embossing.
 4. Set the appropriate distance (e.g., -1 mm for engraving or +1 mm for embossing).
 5. Click **OK**.
+
+![Step 2](Fusion_Images/Screenshot-2025-08-01-112719.png)
 
 ---
 
